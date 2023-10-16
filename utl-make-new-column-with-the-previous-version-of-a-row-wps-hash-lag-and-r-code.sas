@@ -1,6 +1,6 @@
 %let pgm=utl-make-new-column-with-the-previous-version-of-a-row-wps-hash-lag-and-r-code;
 
-A problem for wps R not wps base or sql or hash. Make a new column with the previous version of a row
+Make a new column with the previous version of a row
 
 'Keeping a "lagged" value of ID for each of the unique values of TAGS.'
 Keintz, Mark
